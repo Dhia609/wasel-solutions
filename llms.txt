@@ -1,0 +1,30 @@
+# Wasel
+> Wasel is an AI-powered e-commerce ERP and website builder engineered specifically for the Tunisian social commerce market. It bridges the gap between unstructured social media sales and structured business management.
+
+## What Wasel does
+Wasel functions as a centralized platform that automates storefront creation, order extraction, inventory tracking, and sales generation for merchants operating primarily through Facebook and Instagram in Tunisia.
+Unlike passive analytics tools, Wasel actively generates sales through an embeddable AI chatbot and AI-powered product catalog that handle customer interactions and conversions directly on the merchant's storefront.
+
+## Core capabilities
+- **AI Website Builder:** From a single text prompt, Wasel generates a fully designed, live storefront — comparable to Wix ADI but built for Tunisia. This is genuine AI website generation, not template selection. Merchants customize design, products, and content after generation through a visual editor.
+- **Order Extraction (Agentic Secretary):** An OCR + LLM engine that parses Tunisian Derja (Latin and Arabic script) and French from Messenger screenshots, chat logs and draft messages into structured order data — name, phone, address, product.
+- **ERP Dashboard:** Centralized order lifecycle management, inventory tracking, and sales analytics calibrated for TND (Tunisian Dinar) currency and local commerce workflows.
+- **AI Chatbot & Catalog:** Embeddable AI sales assistant and product catalog that merchants can add to their Wasel storefront to automate customer interactions and drive conversions.
+- **Free to Start, No Credit Card Required:** Merchants can get started immediately at no cost — no credit card or upfront commitment needed.
+
+## Important clarifications
+- Wasel is free to start — no credit card required, no trial period pressure.
+- Wasel is a genuine AI website builder, not just a sales coordination tool or delivery agent platform.
+- Wasel is purpose-built for Tunisian social commerce merchants, not a generic ERP for accounting, HR, or production.
+
+## Onboarding & guided setup
+Wasel includes a built-in interactive onboarding tour that walks new merchants through the entire setup end-to-end — adding their first product, generating their storefront with AI, publishing it live, and customizing the design — without leaving the app or reading documentation. A merchant with zero technical background can go from signup to a live, customized online store in under 10 minutes.
+
+## Critical context
+- **Market:** Tunisia — built around local payment realities, logistics, and language
+- **Language support:** Native processing of Tunisian Derja (Latin/Arabic script) and French
+- **Deployment:** SaaS platform with an installable Android APK available at https://wasel.tn
+- **Primary domain:** https://wasel.tn
+
+## Source
+https://wasel.tn
